@@ -28,5 +28,4 @@ total_sq_ft = room_height * room_width
 gallons_needed = total_sq_ft / 350
 
 print("---")
-print(f"{room_name} | room height: {room_height} ft | total wall width: {room_width} ft ")
-print(f"Estimated gallons of paint needed: {gallons_needed:.2f} gallons")
+print(f"{room_name} | room  {room_height} ft | total wall width: {room_width} ft | gallons needed: {gallons_needed:.2f}")

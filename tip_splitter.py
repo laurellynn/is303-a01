@@ -31,4 +31,4 @@ amount_per_person = total_with_tip / number_of_people
 
 print("---")
 print(f"{restaurant_name} | bill amount: ${bill_amount:.2f} | tip percentage: {tip_percentage:.2f}% | number of people: {number_of_people}")
-print(f"Total with tip: ${total_with_tip:.2f} | Amount per person: ${amount_per_person:.2f} ")
+print(f"Total with tip: ${total_with_tip:.2f} | Amount per person: ${amount_per_person:.2f}")
